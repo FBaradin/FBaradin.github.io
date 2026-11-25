@@ -15,6 +15,7 @@ Personal site of Francisco Baradin Sandi, Data Analyst & BI Developer: resume an
 ```
 index.html                              Single-page site (HTML + CSS, no build step)
 assets/FranciscoBaradinSandi_Resume.pdf Resume download
+assets/PharmaProjectFinance.pdf         Pharma report preview (copy of the PDF in its repo)
 assets/*.webp                           Project preview images
 .nojekyll                               Serve files as-is (skip Jekyll processing)
 ```
